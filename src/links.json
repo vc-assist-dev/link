@@ -1,5 +1,8 @@
 {
-  "/": "https://github.com/jstayton",
-  "1": "https://fee.org/articles/the-use-of-knowledge-in-society/",
-  "tw": "https://twitter.com/kidjustino"
+  "/": "https://vcassist.org",
+  "corp/": "https://accounts.google.com/ServiceLogin?hd=vcassist.org",
+  "corp/aws": "https://vcassist.awsapps.com/start/#/",
+  "app": "https://web.vcassist.org",
+  "parent": "https://parents.vcassist.org",
+  "instagram": "https://instagram.com/@vc_assist",
 }
