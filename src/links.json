@@ -1,6 +1,6 @@
 {
   "/": "https://vcassist.org",
-  "corp/": "https://accounts.google.com/ServiceLogin?hd=vcassist.org",
+  "corp/": "https://accounts.google.com/ServiceLogin/webreauth?hd=vcassist.org&continue=https://workspace.google.com/dashboard",
   "corp/aws": "https://vcassist.awsapps.com/start/#/",
   "app": "https://web.vcassist.org",
   "parent": "https://parents.vcassist.org",
