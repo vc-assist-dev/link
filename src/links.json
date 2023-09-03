@@ -2,7 +2,11 @@
   "/": "https://vcassist.org",
   "corp/": "https://accounts.google.com/ServiceLogin/webreauth?hd=vcassist.org&continue=https://workspace.google.com/dashboard",
   "corp/aws": "https://vcassist.awsapps.com/start/#/",
+  "corp/umami": "https://umami.vcassist.org",
   "app": "https://web.vcassist.org",
   "parent": "https://parents.vcassist.org",
-  "instagram": "https://instagram.com/@vc_assist"
+  "instagram": "https://instagram.com/@vc_assist",
+  "helpdesk": "https://vc-assist.atlassian.net/servicedesk/customer/portals",
+  "status": "https://vcassist.statuspage.io/",
+  "discord": "https://discord.gg/B5BRwAWTme"
 }
