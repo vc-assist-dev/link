@@ -3,6 +3,7 @@
   "corp/": "https://accounts.google.com/ServiceLogin/webreauth?hd=vcassist.org&continue=https://workspace.google.com/dashboard",
   "corp/aws": "https://vcassist.awsapps.com/start/#/",
   "corp/umami": "https://umami.vcassist.org",
+  "corp/sentry": "https://jayce.vcassist.org",
   "app": "https://web.vcassist.org",
   "parent": "https://parents.vcassist.org",
   "instagram": "https://instagram.com/@vc_assist",
