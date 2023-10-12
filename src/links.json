@@ -9,5 +9,7 @@
   "instagram": "https://instagram.com/@vc_assist",
   "helpdesk": "https://vc-assist.atlassian.net/servicedesk/customer/portals",
   "status": "https://vcassist.statuspage.io/",
-  "discord": "https://discord.gg/B5BRwAWTme"
+  "discord": "https://discord.gg/B5BRwAWTme",
+  "legal/privacy-policy": "https://vcassist.org/",
+  "legal/terms": "https://vcassist.org/"
 }
