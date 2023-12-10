@@ -10,6 +10,7 @@
   "helpdesk": "https://vc-assist.atlassian.net/servicedesk/customer/portals",
   "status": "https://vcassist.statuspage.io/",
   "discord": "https://discord.gg/B5BRwAWTme",
-  "legal/privacy-policy": "https://vcassist.org/",
-  "legal/terms": "https://vcassist.org/"
+  "legal/privacy-policy": "https://vc-assist.github.io/documents/?doc=privacy-policy",
+  "legal/eula": "https://vc-assist.github.io/documents/?doc=eula",
+  "legal/disclaimer": "https://vc-assist.github.io/documents/?doc=disclaimer"
 }
