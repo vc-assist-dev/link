@@ -13,6 +13,6 @@
   "legal/privacy-policy": "https://vc-assist.github.io/documents/?doc=privacy-policy",
   "legal/eula": "https://vc-assist.github.io/documents/?doc=eula",
   "legal/disclaimer": "https://vc-assist.github.io/documents/?doc=disclaimer",
-  "data-management/requestData", "https://forms.gle/EZ3f5DrENZzJj3mg7",
-  "data-management/deleteData", "https://forms.gle/sJjSTU9S4QL4PuuR9"
+  "data-management/requestData": "https://forms.gle/EZ3f5DrENZzJj3mg7",
+  "data-management/deleteData": "https://forms.gle/sJjSTU9S4QL4PuuR9"
 }
